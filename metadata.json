@@ -1,0 +1,8 @@
+{
+  "name": "Emoji catching game",
+  "description": "A real-time cyberpunk interactive experience. Use your body to collect neon elements, synced to generated synthwave music, with AI-powered commentary.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
